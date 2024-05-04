@@ -20,4 +20,4 @@ curl -Lo /etc/yum.repos.d/tailscale.repo https://pkgs.tailscale.com/stable/fedor
 
 rpm-ostree install clevis-dracut clevis-luks clevis-udisks2 clevis-systemd \
     byobu duperemove fish mosh podman-compose tailscale \
-    keyd adw-gtk3-theme bubblejail gamemode goverlay mangohud protontricks steam vkbasalt
+    keyd adw-gtk3-theme bubblejail gamemode goverlay mangohud protontricks steam vkBasalt
